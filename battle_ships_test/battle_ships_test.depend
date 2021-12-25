@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623707274 source:d:\stuff\school\programming\battle_ships_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

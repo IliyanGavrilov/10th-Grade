@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616531813 source:d:\stuff\school\programming\10klas\uprajneniezatest3_dwuswurzan spisuk\zad5\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

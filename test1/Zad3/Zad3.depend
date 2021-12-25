@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603989930 source:d:\stuff\school\programming\10klas\test1\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
