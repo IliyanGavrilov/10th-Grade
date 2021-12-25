@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624467085 source:d:\stuff\school\programming\10klas\proekt_snowflakes\snowflakes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+

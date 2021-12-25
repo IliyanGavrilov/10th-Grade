@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610560778 source:d:\stuff\school\programming\10klas\homework\homework1_bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

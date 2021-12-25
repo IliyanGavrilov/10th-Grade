@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619028895 source:d:\stuff\school\programming\10klas\popravkanatest\durvonahuffman\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619025585 source:d:\stuff\school\programming\10klas\popravkanatest\durvonahuffman\zad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619025585 source:d:\stuff\school\programming\10klas\popravkanatest\durvonahuffman\a2.c
+	<stdio.h>
+	<stdlib.h>
+
